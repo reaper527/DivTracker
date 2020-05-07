@@ -1,2 +1,2 @@
-# DivTracker2
+# DivTracker
 DivTracker
