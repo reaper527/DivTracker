@@ -101,6 +101,10 @@ namespace DivTracker
         private void FetchDividends_Click(object sender, EventArgs e)
         {
 
+            dataGridView1.Rows.Clear();
+            dataGridView2.Rows.Clear();
+            dataGridView3.Rows.Clear();
+
             string apikey = "Check Setup";
 
             if (File.Exists("API.Config") == true)
@@ -132,6 +136,7 @@ namespace DivTracker
         //open config menu
         private void ConfigButton_Click(object sender, EventArgs e)
         {
+            
             Config MyConfig = new Config();
             MyConfig.Show();
         }

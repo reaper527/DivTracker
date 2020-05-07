@@ -255,7 +255,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.FetchDividends);
             this.Name = "Form1";
-            this.Text = "r527 - DivTracker - 0.1";
+            this.Text = "r527 - DivTracker - 0.2";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataSet1BindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataTable1BindingSource)).EndInit();
