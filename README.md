@@ -1,6 +1,6 @@
 # DivTracker
 
-DivTracker is a program designed to show upcoming dividend information for a collection of stocks. The design is simple, consisting of a config button and a fetch button.
+DivTracker is a program designed to show upcoming dividend information for a collection of stocks. The design is simple, consisting of a config button and a fetch button. The program can be downloaded from the <a href="https://github.com/reaper527/DivTracker/releases">releases tab</a>.
 
 <img src="https://i.imgur.com/e1OqiFt.png">
 
