@@ -28,3 +28,5 @@ Everything is now configured and hitting "Fetch Upcoming Dividends" should retre
 The only prerequesites for this program should be an active IEX Cloud account, and the <a href="https://dotnet.microsoft.com/download/dotnet-framework">dot net framework</a>.
 
 By design, the "Issued dividends in last 6 months" omits stocks that have upcoming dividends announced. As such, you will not see any companies in both the first and second box at the same time. Likewise, the "Non-Dividend" section is simply stocks that haven't issued in the last 6 months. 
+
+As far as libraries go (this is only relevant for those looking to do something  with the source) the program uses RestSharp and Newtonsoft JSON 
